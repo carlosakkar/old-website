@@ -2,3 +2,36 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* Override default styles with custom styles */
+
+/* Set global font to Georgia */
+body, * {
+  font-family: Georgia, serif;
+}
+
+/* Header Style 1 (h1) */
+h1 {
+  font-size: 34pt;
+  color: #cc0000;
+  font-family: Georgia, serif; /* Ensure it's Georgia */
+}
+
+/* Header Style 2 (h2) */
+h2 {
+  font-size: 16pt;
+  color: #cc0000;
+  font-family: Georgia, serif; /* Ensure it's Georgia */
+}
+
+/* Header Style 3 (h3) */
+h3 {
+  font-size: 16pt;
+  color: black;
+  font-family: Georgia, serif; /* Ensure it's Georgia */
+}
+
+/* Regular text to 12 pt */
+body {
+  font-size: 12pt;
+}
