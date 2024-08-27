@@ -6,8 +6,9 @@
 /* Override default styles with custom styles */
 
 /* Set global font to Georgia */
-body, * {
+body, *, p, li, a {
   font-family: Georgia, serif;
+  color: black; /* Ensure all text is black */
 }
 
 /* Header Style 1 (h1) */
