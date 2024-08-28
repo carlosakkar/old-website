@@ -3,6 +3,3 @@ logo: /assets/img/carlosprofile.jpeg
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
-seo:
-  title: false
