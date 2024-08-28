@@ -56,7 +56,7 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 
 <br />
 <br />
-<p style="text-align: center; color: #d3d3d3; font-size: 7px;">
+<p style="text-align: center; color: #a9a9a9; font-size: 8px;">
   Hosted on GitHub Pages &mdash; Theme by 
   <a href="https://github.com/orderedlist" style="color: inherit; text-decoration: underline;">orderedlist</a>
 </p>
