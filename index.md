@@ -23,7 +23,7 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 
 
 
-## Working Papers
+# Working Papers
 
 **Paper 2** [paper] [short talk] [long talk]
 
@@ -48,7 +48,7 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 </details>
 <br />
 
-## Supervisors and Letter Writers
+# Supervisors and Letter Writers
 
 * Dr. Ian Jewitt: <a href="mailto:ian.jewitt@nuffield.ox.ac.uk">ian.jewitt@nuffield.ox.ac.uk</a>
 * Dr. Daniel Quigley: <a href="mailto:daniel.quigley@economics.ox.ac.uk">daniel.quigley@economics.ox.ac.uk</a>
