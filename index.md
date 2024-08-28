@@ -54,3 +54,13 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 * Dr. Daniel Quigley: <a href="mailto:daniel.quigley@economics.ox.ac.uk">daniel.quigley@economics.ox.ac.uk</a>
 * Dr. Margaret (Meg) Meyer: <a href="mailto:margaret.meyer@nuffield.ox.ac.uk">margaret.meyer@nuffield.ox.ac.uk</a>
 
+<br />
+<br />
+<footer>
+  <p class="footer-text">
+    <small>
+      Hosted on GitHub Pages &mdash; Theme by 
+      <a href="https://github.com/orderedlist">orderedlist</a>
+    </small>
+  </p>
+</footer>
