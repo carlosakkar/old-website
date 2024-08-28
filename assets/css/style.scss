@@ -57,3 +57,11 @@ a {
   font-weight: normal; /* Normal font weight */
 }
 
+/* Adjust side margins for desktop view only */
+@media (min-width: 768px) {
+  .wrapper {
+    max-width: 90%; /* Adjust this value to reduce side margins */
+    margin: 0 auto; /* Center the content */
+  }
+}
+
