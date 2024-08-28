@@ -36,3 +36,18 @@ h3 {
 body {
   font-size: 12pt;
 }
+
+/* Styling for email links */
+a[href^="mailto:"] {
+  color: #1a3c6e; /* Light navy color */
+  text-decoration: underline; /* Underline the email links */
+  font-weight: normal; /* Normal font weight */
+}
+
+/* Styling for all other hyperlinks */
+a {
+  color: #1a3c6e; /* Light navy color */
+  text-decoration: none; /* No underline */
+  font-weight: normal; /* Normal font weight */
+}
+
