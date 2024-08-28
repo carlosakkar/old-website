@@ -12,7 +12,8 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 
 <details>
   <summary>Abstract</summary>
-  
+
+  <br />
   Abstract JMP. 
   
 </details>
@@ -26,7 +27,8 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 
 <details>
   <summary>Abstract</summary>
-  
+
+  <br />
   Abstract 2.
   
 </details>
@@ -37,7 +39,8 @@ Reach me: <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economic
 
 <details>
   <summary>Abstract</summary>
-  
+
+  <br />
   Abstract 3.
   
 </details>
