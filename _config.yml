@@ -5,4 +5,4 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 seo:
-  title: "{{ site.title }}" 
+  title: false
