@@ -70,15 +70,17 @@ a {
   font-weight: normal; /* Normal font weight */
 }
 
-/* Adjust the width of the section element for desktop view */
-/* Adjust the width of the section element for desktop view */
+
+/* Override the section width and float for desktop view */
 @media (min-width: 768px) {
   section {
-    max-width: 100% !important; /* Make the section full width */
-    margin: 0 auto; /* Center the section */
-    padding-left: 10px; /* Minimal padding to test */
-    padding-right: 10px; /* Minimal padding to test */
+    width: 100% !important; /* Make the section full width */
+    max-width: 100% !important; /* Ensure no max-width restrictions */
+    float: none !important; /* Disable the float to align it normally */
+    padding-left: 20px; /* Add some padding */
+    padding-right: 20px; /* Add some padding */
   }
 }
+
 
 
