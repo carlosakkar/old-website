@@ -71,12 +71,14 @@ a {
 }
 
 /* Adjust the width of the section element for desktop view */
+/* Adjust the width of the section element for desktop view */
 @media (min-width: 768px) {
   section {
-    max-width: 95% !important; /* Increase the width of the section */
+    max-width: 100% !important; /* Make the section full width */
     margin: 0 auto; /* Center the section */
-    padding-left: 20px; /* Adjust padding to keep some margin */
-    padding-right: 20px; /* Adjust padding to keep some margin */
+    padding-left: 10px; /* Minimal padding to test */
+    padding-right: 10px; /* Minimal padding to test */
   }
 }
+
 
