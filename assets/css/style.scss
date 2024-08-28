@@ -18,6 +18,12 @@ h1 {
   font-family: Georgia, serif; /* Ensure it's Georgia */
 }
 
+h1 a:hover {
+  color: inherit; /* Keeps the color the same as the normal state */
+  background-color: transparent; /* Ensures no background color change */
+  text-decoration: none; /* Keeps the underline state the same */
+}
+
 /* Header Style 2 (h2) */
 h2 {
   font-size: 18pt;
