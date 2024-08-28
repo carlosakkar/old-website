@@ -10,39 +10,33 @@ Reach me: daghan.akkar@economics.ox.ac.uk
 
 **Information in Decentralised Evaluations** [paper] [short talk] [long talk]
 
-<div>
-  <button onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none';">
-    Abstract:
-  </button>
-  <div style="display: none;">
-    Abstract for JMP.
-  </div>
-</div>
+<details>
+  <summary>Abstract</summary>
+  Abstract JMP. 
+</details>
+<br />
+
 
 
 ## Working Papers
 
 **Paper 2** [paper] [short talk] [long talk]
 
-<div>
-  <button onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none';">
-    Abstract:
-  </button>
-  <div style="display: none;">
-    Abstract for Paper 2.
-  </div>
-</div>
+<details>
+  <summary>Abstract</summary>
+  Abstract 2.
+</details>
+<br />
+
 
 **Paper 3** [paper] [short talk] [long talk]
 
-<div>
-  <button onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display==='none'?'block':'none';">
-    Abstract:
-  </button>
-  <div style="display: none;">
-    Abstract for Paper 3.
-  </div>
-</div>
+<details>
+  <summary>Abstract</summary>
+  Abstract 3.
+</details>
+<br />
+
 
 
 
