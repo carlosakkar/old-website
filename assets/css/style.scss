@@ -72,10 +72,16 @@ a {
 
 /* Adjust margins for desktop view only */
 @media (min-width: 768px) {
+  body {
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+    margin: 0 auto !important;
+  }
+
   .wrapper {
-    max-width: 1200px; /* Set a maximum width for large screens */
-    padding-left: 20px; /* Adjust left padding to reduce margins */
-    padding-right: 20px; /* Adjust right padding to reduce margins */
-    margin: 0 auto; /* Center the content */
+    max-width: 90% !important;
+    margin: 0 auto !important;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
   }
 }
