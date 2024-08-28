@@ -70,6 +70,20 @@ a {
   font-weight: normal; /* Normal font weight */
 }
 
+/* Footer styling */
 
+.footer-text {
+  font-size: 12px; /* Set the font size to small */
+  color: #d3d3d3; /* Light gray color for the text */
+}
+
+.footer-text a {
+  color: inherit; /* Keep the link color the same as the text color */
+  text-decoration: underline; /* Underline the hyperlink */
+}
+
+.footer-text a:hover {
+  color: #555555; /* Darker gray color on hover for the hyperlink */
+}
 
 
