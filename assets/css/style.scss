@@ -15,14 +15,25 @@ body, *, p, li, a {
 h1 {
   font-size: 18pt;
   color: #cc0000;
-  font-family: Georgia, serif; /* Ensure it's Georgia */
+  font-family: Georgia, serif; /* Set the font */
+  text-decoration: none; /* Ensure there's no underline */
 }
 
-h1 a:hover {
-  color: inherit; /* Keeps the color the same as the normal state */
-  background-color: transparent; /* Ensures no background color change */
-  text-decoration: none; /* Keeps the underline state the same */
+/* Style the link within the h1 tag */
+h1 a {
+  color: #cc0000; /* Ensure the link has the correct color */
+  text-decoration: none; /* No underline */
 }
+
+/* Remove all hover effects on the link within the h1 tag */
+h1 a:hover {
+  color: #cc0000; /* Keep the color the same on hover */
+  background-color: transparent; /* No background change on hover */
+  text-decoration: none; /* No underline or other decoration on hover */
+  transition: none; /* Disable any transition effects on hover */
+}
+
+
 
 /* Header Style 2 (h2) */
 h2 {
