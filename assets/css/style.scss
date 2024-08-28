@@ -71,16 +71,5 @@ a {
 }
 
 
-/* Override the section width and float for desktop view */
-@media (min-width: 768px) {
-  section {
-    width: 100% !important; /* Make the section full width */
-    max-width: 100% !important; /* Ensure no max-width restrictions */
-    float: none !important; /* Disable the float to align it normally */
-    padding-left: 20px; /* Add some padding */
-    padding-right: 20px; /* Add some padding */
-  }
-}
-
 
 
