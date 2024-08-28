@@ -1,3 +1,7 @@
+---
+title: "D. Carlos Akkar"
+---
+
 Welcome! 
 
 I am an economic theorist focusing on the economics of information. I am currently a DPhil (PhD) student at the University of Oxford. 
