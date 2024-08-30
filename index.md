@@ -4,7 +4,7 @@ I am an economic theorist focusing on the economics of information. I am current
 
 I am on the <span style="color: #c00000;">2024 - 2025 Job Market</span>. Here is my CV.
 
-Reach me: daghan (dot) akkar (AT) economics (dot) ox (dot) ac (dot) uk
+Reach me: daghan.akkar (AT) economics.ox.ac.uk
 
 <!-- <a href="mailto:daghan.akkar@economics.ox.ac.uk">daghan.akkar@economics.ox.ac.uk</a> -->
 
@@ -52,11 +52,11 @@ Reach me: daghan (dot) akkar (AT) economics (dot) ox (dot) ac (dot) uk
 
 # Supervisors and Letter Writers
 
-* Dr. Ian Jewitt: ian (dot) jewitt (AT) nuffield (dot) ox (dot) ac (dot) uk 
+* Dr. Ian Jewitt: ian.jewitt (AT) nuffield.ox.ac.uk 
 <!-- <a href="mailto:ian.jewitt@nuffield.ox.ac.uk">ian.jewitt@nuffield.ox.ac.uk</a> -->
-* Dr. Daniel Quigley: daniel (dot) quigley (AT) economics (dot) ox (dot) ac (dot) uk 
+* Dr. Daniel Quigley: daniel.quigley (AT) economics.ox.ac.uk 
 <!-- <a href="mailto:daniel.quigley@economics.ox.ac.uk">daniel.quigley@economics.ox.ac.uk</a> -->
-* Dr. Margaret (Meg) Meyer: margaret (dot) meyer (AT) nuffield (dot) ox (dot) ac (dot) uk 
+* Dr. Margaret (Meg) Meyer: margaret.meyer (AT) nuffield.ox.ac.uk 
 <!-- <a href="mailto:margaret.meyer@nuffield.ox.ac.uk">margaret.meyer@nuffield.ox.ac.uk</a> -->
 
 <br />
